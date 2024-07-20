@@ -1,0 +1,5 @@
+#!/Users/abhinandansamal/Certifications/Udemy/TensorFlow_for_Deep_Learning_Bootcamp/tensorflow-learn/tfbootcamp/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
